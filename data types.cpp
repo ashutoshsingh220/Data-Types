@@ -1,3 +1,7 @@
+//program to implement and use data types.
+// ASHUTOSH SINGH
+// 23070123033
+
 #include<iostream>
 using namespace std;
 
